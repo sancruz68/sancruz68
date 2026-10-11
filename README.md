@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Santos 👋
 
-<!--
-**sancruz68/sancruz68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate from Western Governors University (WGU), focused on AWS cloud engineering, cloud architecture, and software development. I'm continuing to develop my skills through hands-on projects involving cloud infrastructure, security, and application development.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying for:
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified CloudOps Engineer – Associate
+
+## Technologies I've Worked With
+
+**Programming Languages:** Java, Python, JavaScript, TypeScript, SQL
+
+**Software Development:** Spring Boot, Angular, HTML, CSS, Android Development
+
+**Cloud & Tools:** AWS, Docker, Git, GitHub, GitLab
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- CompTIA Security+
+
+## Projects
+
+### AWS Cloud Engineering
+
+**[AWS Cloud Fun Fact Generator](https://github.com/sancruz68/AWS-Cloud-Fun-Fact-Generator)**
+
+Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
+
+### Software Engineering
+
+**Hotel Reservation System**
+- Java, Spring Boot, Angular, Docker
+- Full-stack hotel reservation application with multilingual support, currency displays, and time-zone handling.
+
+**Vacation Booking API**
+- Java, Spring Boot, MySQL, REST APIs
+- Backend application for managing vacation packages, customers, excursions, and purchases.
+
+**Inventory Management System**
+- Java, Spring Boot, Thymeleaf, H2 Database
+- Inventory application for managing products, parts, stock levels, and purchases.
+
+**Interactive World Map**
+- Angular, TypeScript, HTML, CSS, REST API
+- Interactive map that retrieves and displays country information using the World Bank API.
+
+**Android Vacation Planner**
+- Java, Android Studio, Room Database, SQLite
+- Android application for managing vacations, excursions, dates, and notifications.
+
+**Pennsylvania State Guide**
+- HTML, CSS, JavaScript
+- Responsive informational website featuring Pennsylvania cities, navigation, and form validation.
+
