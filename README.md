@@ -47,9 +47,8 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 
 **[Interactive World Map — World Explorer](https://github.com/sancruz68/interactive-world-map)**
 
-Angular 22, TypeScript, HTML, CSS, World Bank REST API
-
-Interactive application featuring a searchable world map, country information, responsive design, and API integration.
+- Angular 22, TypeScript, HTML, CSS, World Bank REST API
+- Interactive application featuring a searchable world map, country information, responsive design, and API integration.
 
 
 **Android Vacation Planner**
