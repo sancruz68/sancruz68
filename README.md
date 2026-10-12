@@ -40,9 +40,12 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 - Java, Spring Boot, MySQL, REST APIs
 - Backend application for managing vacation packages, customers, excursions, and purchases.
 
-**Inventory Management System**
-- Java, Spring Boot, Thymeleaf, H2 Database
-- Inventory application for managing products, parts, stock levels, and purchases.
+
+**[Inventory Management System](https://github.com/sancruz68/inventory-management-system)**
+
+- Java, Spring Boot, Thymeleaf, Spring Data JPA, H2 Database
+- Inventory management application featuring product CRUD operations, stock tracking, low-stock alerts, database persistence, and input validation.
+
 
 
 **[Interactive World Map — World Explorer](https://github.com/sancruz68/interactive-world-map)**
