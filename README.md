@@ -55,7 +55,10 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 - Java, Android Studio, Room Database, SQLite
 - Android application for managing vacations, excursions, dates, and notifications.
 
-**Pennsylvania State Guide**
+
+
+**[Pennsylvania State Guide](https://github.com/sancruz68/pennsylvania-state-guide)**
+
 - HTML, CSS, JavaScript
-- Responsive informational website featuring Pennsylvania cities, navigation, and form validation.
+- Responsive Pennsylvania travel guide featuring six destinations, city search, regional filtering, saved destinations, and interactive city details.
 
