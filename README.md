@@ -44,9 +44,13 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 - Java, Spring Boot, Thymeleaf, H2 Database
 - Inventory application for managing products, parts, stock levels, and purchases.
 
-**Interactive World Map**
-- Angular, TypeScript, HTML, CSS, REST API
-- Interactive map that retrieves and displays country information using the World Bank API.
+
+**[Interactive World Map — World Explorer](https://github.com/sancruz68/interactive-world-map)**
+
+Angular 22, TypeScript, HTML, CSS, World Bank REST API
+
+Interactive application featuring a searchable world map, country information, responsive design, and API integration.
+
 
 **Android Vacation Planner**
 - Java, Android Studio, Room Database, SQLite
