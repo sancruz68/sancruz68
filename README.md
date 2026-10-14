@@ -36,9 +36,11 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 - Java, Spring Boot, Angular, Docker
 - Full-stack hotel reservation application with multilingual support, currency displays, and time-zone handling.
 
-**Vacation Booking API**
-- Java, Spring Boot, MySQL, REST APIs
-- Backend application for managing vacation packages, customers, excursions, and purchases.
+
+**[Vacation Booking API](https://github.com/sancruz68/vacation-booking-api)**
+
+- Java, Spring Boot, MySQL, Spring Data JPA, REST APIs
+- Backend application for managing vacation packages, customers, excursions, and reservations, featuring booking capacity validation, database relationships, and automated testing.
 
 
 **[Inventory Management System](https://github.com/sancruz68/inventory-management-system)**
