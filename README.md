@@ -32,9 +32,11 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 
 ### Software Engineering
 
-**Hotel Reservation System**
-- Java, Spring Boot, Angular, Docker
-- Full-stack hotel reservation application with multilingual support, currency displays, and time-zone handling.
+
+**[Hotel Reservation System](https://github.com/sancruz68/hotel-reservation-system)**
+
+- Java, Spring Boot, Angular, MySQL, Docker
+- Full-stack hotel reservation application featuring room availability searches, booking validation, multilingual support, currency displays, and time-zone handling.
 
 
 **[Vacation Booking API](https://github.com/sancruz68/vacation-booking-api)**
