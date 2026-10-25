@@ -1,72 +1,45 @@
-# Hi, I'm Santos 👋
+<div align="center">
 
-I'm a Software Engineering graduate from Western Governors University (WGU), focused on AWS cloud engineering, cloud architecture, and software development. I'm continuing to develop my skills through hands-on projects involving cloud infrastructure, security, and application development.
+# Hey, I'm Santos 👋
 
-## Current Focus
+**Software Engineering Graduate · Cloud & Software Development**
 
-I'm currently studying for:
+I build software, explore how systems work, and I'm working toward a career in cloud engineering and solutions architecture.
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified CloudOps Engineer – Associate
+`Java` · `Python` · `AWS` · `Spring Boot` · `Docker`
 
-## Technologies I've Worked With
+</div>
 
-**Programming Languages:** Java, Python, JavaScript, TypeScript, SQL
+---
 
-**Software Development:** Spring Boot, Angular, HTML, CSS, Android Development
+### A little about me
 
-**Cloud & Tools:** AWS, Docker, Git, GitHub, GitLab
+I recently graduated with a B.S. in Software Engineering from Western Governors University. I've spent a lot of time building applications across backend, frontend, cloud, and Android development.
 
-## Certifications
+What interests me most is the bigger picture: how applications fit together, how infrastructure supports them, and how to design systems that work reliably as they grow.
 
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
+### What I'm focused on
 
-## Projects
+- ☁️ Learning AWS architecture and preparing for the **Solutions Architect – Associate** exam
+- 🛠️ Deepening my experience with cloud infrastructure, automation, and application deployment
+- 🚀 Working toward my first role in cloud engineering
 
-### AWS Cloud Engineering
+### Tools & technologies
 
-**[AWS Cloud Fun Fact Generator](https://github.com/sancruz68/AWS-Cloud-Fun-Fact-Generator)**
+| Area | Experience |
+| --- | --- |
+| **Cloud** | AWS Lambda, API Gateway, DynamoDB, IAM |
+| **Languages** | Java, Python, TypeScript, JavaScript, SQL |
+| **Development** | Spring Boot, Angular, Android |
+| **Tools** | Docker, Git, GitHub, GitLab |
 
-Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
+### Selected work
 
-### Software Engineering
+| Project | What I built |
+| --- | --- |
+| ☁️ **[AWS Cloud Fun Fact Generator](https://github.com/sancruz68/AWS-Cloud-Fun-Fact-Generator)** | Serverless application built with AWS Lambda, API Gateway, DynamoDB, and Python. |
+| 🏨 **[Hotel Reservation System](https://github.com/sancruz68/hotel-reservation-system)** | Full-stack reservation application using Spring Boot, Angular, MySQL, and Docker. |
+| 🔗 **[Vacation Booking API](https://github.com/sancruz68/vacation-booking-api)** | Java REST backend with relational data, reservation management, and booking validation. |
+| 📱 **[Android Vacation Planner](https://github.com/sancruz68/android-vacation-planner)** | Android app using Room for local storage and WorkManager for trip reminders. |
 
-
-**[Hotel Reservation System](https://github.com/sancruz68/hotel-reservation-system)**
-
-- Java, Spring Boot, Angular, MySQL, Docker
-- Full-stack hotel reservation application featuring room availability searches, booking validation, multilingual support, currency displays, and time-zone handling.
-
-
-**[Vacation Booking API](https://github.com/sancruz68/vacation-booking-api)**
-
-- Java, Spring Boot, MySQL, Spring Data JPA, REST APIs
-- Backend application for managing vacation packages, customers, excursions, and reservations, featuring booking capacity validation, database relationships, and automated testing.
-
-
-**[Inventory Management System](https://github.com/sancruz68/inventory-management-system)**
-
-- Java, Spring Boot, Thymeleaf, Spring Data JPA, H2 Database
-- Inventory management application featuring product CRUD operations, stock tracking, low-stock alerts, database persistence, and input validation.
-
-
-
-**[Interactive World Map — World Explorer](https://github.com/sancruz68/interactive-world-map)**
-
-- Angular 22, TypeScript, HTML, CSS, World Bank REST API
-- Interactive application featuring a searchable world map, country information, responsive design, and API integration.
-
-
-**[Android Vacation Planner](https://github.com/sancruz68/android-vacation-planner)**
-
-- Java, Android SDK, Room (SQLite), WorkManager
-- Native Android app for managing vacations and excursions, validating travel dates, and scheduling reminders. Includes five passing instrumented database tests.
-
-
-
-**[Pennsylvania State Guide](https://github.com/sancruz68/pennsylvania-state-guide)**
-
-- HTML, CSS, JavaScript
-- Responsive Pennsylvania travel guide featuring six destinations, city search, regional filtering, saved destinations, and interactive city details.
-
+<sub>More projects and source code are available in my [repositories](https://github.com/sancruz68?tab=repositories).</sub>
