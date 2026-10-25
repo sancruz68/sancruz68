@@ -58,7 +58,7 @@ Built using AWS Lambda, API Gateway, DynamoDB, IAM, and Python.
 - Interactive application featuring a searchable world map, country information, responsive design, and API integration.
 
 
-**Android Vacation Planner**
+**[Android Vacation Planner]**
 - Java, Android Studio, Room Database, SQLite
 - Android application for managing vacations, excursions, dates, and notifications.
 
