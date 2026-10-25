@@ -2,7 +2,7 @@
 
 <img src="assets/profile-banner.svg" alt="Hey, I'm Santos! Software Engineering Graduate - Cloud and Software Development" width="100%" />
 
-I'm a software engineering graduate who enjoys building applications and figuring out how systems fit together. I'm especially interested in AWS, infrastructure, and designing solutions that are reliable and scalable.
+I graduated from **Western Governors University (WGU)** with a B.S. in Software Engineering. I enjoy building applications and figuring out how systems fit together. I'm especially interested in AWS, infrastructure, and designing solutions that are reliable and scalable.
 
 **Currently working toward my first cloud role.**
 
