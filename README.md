@@ -4,7 +4,7 @@
 
 I'm a software engineering graduate who enjoys building applications and figuring out how systems fit together. I'm especially interested in AWS, infrastructure, and designing solutions that are reliable and scalable.
 
-**Currently working toward my first cloud engineering role.**
+**Currently working toward my first cloud role.**
 
 </div>
 
