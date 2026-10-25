@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12343B,50:176B83,100:3C91C7&height=205&section=header&text=Hey,%20I'm%20Santos!&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Software%20Engineering%20Graduate%20%7C%20Cloud%20%26%20Software%20Development&descSize=15&descAlignY=59" alt="Hey, I'm Santos! Software Engineering Graduate — Cloud and Software Development" width="100%" />
+<img src="assets/profile-banner.svg" alt="Hey, I'm Santos! Software Engineering Graduate - Cloud and Software Development" width="100%" />
 
 I'm a software engineering graduate who enjoys building applications and figuring out how systems fit together. I'm especially interested in AWS, infrastructure, and designing solutions that are reliable and scalable.
 
