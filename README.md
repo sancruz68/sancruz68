@@ -49,5 +49,5 @@ I graduated from **Western Governors University (WGU)** with a B.S. in Software 
 
 ### 🏎️ A fun fact about me
 
-Outside of coding, I'm a **Formula 1 fan**, and I'd love to spend part of my life traveling and experiencing different countries and cultures. 🌎
+I'm a **Formula 1 fan**, and one of my goals is to travel the world and experience different cultures. 🌎
 
